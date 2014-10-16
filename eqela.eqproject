@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thu7
+#
+
+projectname: thu7
+vendorid: com.jason
+mainmodule: com.jason.thu7
